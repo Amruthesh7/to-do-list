@@ -1,0 +1,100 @@
+/* General page styles */
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  padding: 2rem;
+  margin: 0;
+  text-align: center;
+}
+
+/* Container for the to-do list */
+.todo-container {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+.todo-container h1 {
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+/* Input and add button */
+input[type="text"] {
+  padding: 0.6rem;
+  width: 65%;
+  margin-right: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+button {
+  padding: 0.6rem 1rem;
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+/* Task list */
+#task-list {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 1.5rem;
+}
+
+/* Each task item */
+li {
+  background: #ecf0f1;
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: background 0.3s;
+}
+
+/* When a task is completed */
+.completed span.task-text {
+  text-decoration: line-through;
+  color: gray;
+}
+
+/* Status icon (tick/cross) */
+.status-icon {
+  font-size: 1.4rem;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+/* Task text */
+.task-text {
+  flex-grow: 1;
+  text-align: left;
+  font-size: 1.05rem;
+}
+
+/* Delete button */
+.delete-btn {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: #e74c3c;
+}
+
+.delete-btn:hover {
+  color: #c0392b;
+}
