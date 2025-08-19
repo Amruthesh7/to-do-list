@@ -46,4 +46,11 @@ Edit
 start index.html   # Windows
 open index.html    # macOS
 
+----------------------------------------------------------------------------------------------------
+
+## 📸 Project Demo
+
+Here is a screenshot of the deployed To-Do List app:
+
+![To-Do List Demo](screenshot.png)
 
