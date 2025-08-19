@@ -52,5 +52,5 @@ open index.html    # macOS
 
 Here is a screenshot of the deployed To-Do List app:
 
-![To-Do List Demo](screenshot.png)
+![To-Do List Demo](Screenshot 2025-08-19 142522.png)
 
