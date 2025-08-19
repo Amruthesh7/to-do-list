@@ -1,9 +1,10 @@
-# to-do-list
-This is a simple interface where user can use this as to do list and check-box
+📝 To-Do List
 
-A simple and elegant To-Do List application built with HTML, CSS, and JavaScript. Users can add, mark as complete/incomplete, and delete tasks. Tasks are saved using the browser's localStorage, so they persist even after refreshing the page.
+This is a simple and elegant To-Do List application built with HTML, CSS, and JavaScript.
+Users can add, mark as complete/incomplete, and delete tasks. Tasks are saved using the browser’s localStorage, so they persist even after refreshing the page.
 
 🔧 Features
+
 ✅ Add new tasks
 
 ❌ Toggle task status (complete/incomplete)
@@ -14,43 +15,48 @@ A simple and elegant To-Do List application built with HTML, CSS, and JavaScript
 
 🎨 Clean and responsive UI
 
-🚀 Demo
+🚀 Live Demo
 
-(Add your own screenshot or GitHub Pages link here)
+🔗 Click here to try the To-Do List App
 
 🛠️ Tech Stack
+
 HTML5 – structure of the app
 
 CSS3 – styled components and layout
 
 JavaScript – dynamic behavior and task management
 
--------------------------------------------------------------------------------------------------
-
-storage
-
 📂 How to Use
+
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Amruthesh7/to-do-list.git
+
 
 Navigate into the folder:
-bash
-cd your-repo-name
+
+cd to-do-list
+
+
 Open index.html in your browser:
 
-bash
-Copy
-Edit
-start index.html   # Windows
-open index.html    # macOS
+# Windows
+start index.html
 
-----------------------------------------------------------------------------------------------------
+# macOS
+open index.html
 
-## 📸 Project Demo
+📸 Project Demo
 
 Here is a screenshot of the deployed To-Do List app:
 
-![To-Do List Demo](Screenshot 2025-08-19 142522.png)
+✨ Now your README will show:
 
+A direct working demo link
+
+A screenshot preview
+
+Professional features + tech stack section
+
+👉 Do you want me to generate the ready-to-paste README.md file so you can directly upload it to your repo without editing line by line?
